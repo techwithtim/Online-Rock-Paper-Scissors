@@ -6,5 +6,5 @@ ports:
     onOpen: open-preview
 tasks:
   - init: pip3 install -r requirements.txt
-    command: python3 server.py
-  - command: python3 client.py
+    command: python3 client.py
+  - command: python3 server.py
