@@ -10,6 +10,6 @@ You will need to change the **server** address in both *server.py* and *client.p
 
 You can also run Online Rock Paper Scissors in Gitpod, a free online dev environment for GitHub:
 
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM2FQBMX**
+If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Online-Rock-Paper-Scissors/blob/master/game.py)
