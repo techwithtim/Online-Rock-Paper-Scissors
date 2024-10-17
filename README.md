@@ -6,15 +6,6 @@ To run the game you will need to run an instane of *server.py* on one machine. T
 
 You will need to change the **server** address in both *server.py* and *client.py* to be the IPV4 address of your machine or the server ips you'll be using.
 
-# Run in Gitpod
-
-You can also run Online Rock Paper Scissors in Gitpod, a free online dev environment for GitHub:
-
-If you're intersted in a paid subscription with GitPod use the coupon code: **TECHWITHTIM19**
-
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/techwithtim/Online-Rock-Paper-Scissors/blob/master/game.py)
-
-
 # 💻 Launch Your Software Development Career Today!  
 
 🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
